@@ -1,0 +1,48 @@
+NEOX LICENSE v1.0
+=================
+
+Copyright (c) 2026 NeonNoxus
+All rights reserved.
+
+1. PLAYABILITY & USAGE GRANT
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software (mod/plugin) to download, install, and run it for personal, 
+single-player, or multiplayer gameplay on private and public servers without 
+restriction.
+
+2. MANDATORY ATTRIBUTION (CREDIT)
+If this software is modified, extended, adapted, or incorporated into 
+derivative works, prominent credit MUST be given to the original author: 
+NeonNoxus.
+
+Attribution must be clearly visible and accessible in:
+  a) The description and credits of any modified download or release page.
+  b) The source code headers of any modified files or repository.
+  c) In-game credits (e.g., plugin credits/commands) where applicable.
+
+3. STRUCTURAL INTEGRITY & CORE ARCHITECTURE RESTRICTION
+Modifications, derivative works, and extensions are strictly subject to 
+the following structural limitations:
+  a) PROHIBITION ON STRUCTURAL OVERHAUL: The foundational framework, core 
+     package architecture, and essential mechanics of this software 
+     MUST remain intact.
+  b) ALLOWED MODIFICATIONS: Adding features, bug fixes, performance 
+     optimizations, and configuration changes are permitted.
+  c) FORBIDDEN MODIFICATIONS: Completely gutting or rewriting core engine 
+     mechanics to bypass this agreement or rebrand the software as a new 
+     standalone creation is strictly prohibited.
+
+4. REDISTRIBUTION OF MODIFIED VERSIONS
+Redistribution of modified versions ("forks") is permitted ONLY IF:
+  a) Full attribution to NeonNoxus is maintained (Section 2).
+  b) Structural integrity restrictions are respected (Section 3).
+  c) The modified version is distributed under these exact same terms (Neox License).
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
