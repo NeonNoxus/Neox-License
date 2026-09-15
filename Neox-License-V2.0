@@ -1,0 +1,60 @@
+NEOX LICENSE v2.0
+=================
+
+Copyright (c) 2026 NeonNoxus
+All rights reserved.
+
+1. PLAYABILITY, USAGE & HOSTING GRANT
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software (mod/plugin) to download, install, and run it for personal, 
+single-player, or multiplayer gameplay on private and public servers, subject 
+to the conditions below.
+
+2. COMMERCIAL RESTRICTIONS
+While free usage and server hosting are permitted:
+  a) Direct monetization of this software as a standalone product (selling the 
+     plugin/mod itself, charging access fees to download it, or locking its core 
+     features behind a paywall) is strictly prohibited.
+  b) Server operators may use this software on monetized servers (e.g., via 
+     ranks, cosmetics, or donations), provided that such monetization complies 
+     with applicable game EULAs and does not misrepresent ownership of the 
+     software.
+
+3. MANDATORY ATTRIBUTION (CREDIT)
+If this software is modified, extended, adapted, or incorporated into 
+derivative works, prominent and unaltered credit MUST be given to the original 
+author: NeonNoxus.
+
+Attribution must be clearly visible and accessible in:
+  a) The description, download page, and release notes of any modified distribution.
+  b) The source code headers of all modified or new files, as well as repository credits.
+  c) In-game credits, configuration output (e.g., plugin commands like /author or version outputs), 
+     where applicable.
+
+4. STRUCTURAL INTEGRITY & CODE ARCHITECTURE
+Modifications and derivative works are subject to the following technical boundaries:
+  a) PRESERVATION OF CORE IDENTIFIERS: The original plugin namespace, command identifiers, 
+     author metadata, and licensing notices within code files must not be falsified 
+     or claimed as an entirely independent, original creation by another author.
+  b) PERMITTED CHANGES: Adding new features, fixing bugs, optimizing performance, 
+     refactoring code, and adjusting configurations are fully permitted.
+  c) FORBIDDEN REBRANDING: Taking this software, changing minor text elements, and 
+     publishing it under a completely new identity or brand claiming sole original 
+     authorship ("re-skinning" or fraudulent rebranding) is strictly prohibited.
+
+5. REDISTRIBUTION OF MODIFIED VERSIONS (FORKS)
+Redistribution of modified versions of this software is permitted ONLY IF:
+  a) Full and visible attribution to NeonNoxus is maintained (Section 3).
+  b) The integrity and non-fraudulent identification rules are respected (Section 4).
+  c) The modified version is distributed under these exact same terms (NEOX License v2.0).
+  d) Source code access is provided to users if requested, ensuring open collaboration 
+     within the community.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
